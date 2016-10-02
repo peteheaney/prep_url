@@ -1,6 +1,6 @@
 # Prep URL
 
-Prep URL is an ExpressionEngine plugin that adds `http://` to a URL in the event that a scheme is missing from the URL
+Prep URL is an ExpressionEngine plugin that adds `http://` to a URL in the event that a scheme is missing from the URL.
 
 ## Installation
 
